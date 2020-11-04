@@ -4,16 +4,16 @@ The Excel Workbook for a company called SensiStart, Inc. SensiStart is made up o
 The SensiStart team is ultra-frustrated because developing those income statements was hard enough. They are engineers not finance people! Through a friend they heard that you were taking a new venture finance class at Whitman and that means that you get all this stuff. Those statements are a piece of cake for you.
 They have handed over all their work to you and have asked you to do the following:
   1. Generate the balance sheet for years 1 -3.
-    a. Yrs 1 and 2 monthly and yr 3 quarterly.
+  - a. Yrs 1 and 2 monthly and yr 3 quarterly.
   2. Generate the cash flow statement for years 1 -3. 
-    a. Yrs 1 and 2 monthly and yr 3 quarterly.
+  - a. Yrs 1 and 2 monthly and yr 3 quarterly.
   3. They also are not sure how to handle capital expenditures so even though they have identified what they are buying and when they have no idea what depreciation and amortization means. They have left this blank on their income statements.
-    a. You will generate a depreciation & amortization schedule based on the assumptions in the spreadsheet under Capital Budget Expenditures.
+  - a. You will generate a depreciation & amortization schedule based on the assumptions in the spreadsheet under Capital Budget Expenditures.
   4. They are also not sure of how to handle insurance. Their agent is telling them they have to pre- pay it at the beginning of every year. Their insurance quote is as follows:
-    • Year 1: $5,000
-    • Year 2: $7,500
-    • Year 3: $8,000
-    a. You will generate a prepaid expense schedule.
+    - • Year 1: $5,000
+    - • Year 2: $7,500
+    - • Year 3: $8,000
+    - a. You will generate a prepaid expense schedule.
 
 # ASSUMPTIONS YOU NEED TO BE AWARE ABOUT
   1. SensiStart has been incorporated as an S-Corp.
@@ -36,9 +36,9 @@ instructed to do so.
   1. The SensiStart team must figure out how much money they need to ask from outside investors to be able to operate past year 3. They will only be able to raise money once so it is essential that they get it right. Based on your analysis how much money (in addition to the $10,ooo they are putting in) do you recommend they ask for? Why this amount?
   2. When does SensiStart breakeven? (month and year)
   3. SensiStart just got back some key research that shows their customers are willing to pay $40 more for their product. Instead of a retail price of $89.99 they can charge $129.99. This also means that they can charge a wholesale price of $85.00.
-    a. Based on your analysis how much money (in addition to the $10,ooo they are putting in) will they need to ask for? Why this amount?
-    b. When does SensiStart breakeven? (month and year)
+  - a. Based on your analysis how much money (in addition to the $10,ooo they are putting in) will they need to ask for? Why this amount?
+  - b. When does SensiStart breakeven? (month and year)
   4. Please go back to the first scenario where the retail price is $89.99 and the wholesale price is $55.00. SensiStart just received a quote from another supplier that lowers the variable costs to $19.80 (from $34.80).
-    a. Based on your analysis how much money (in addition to the $10,ooo they are putting in) will they need to ask for? Why this amount?
-    b. When does SensiStart breakeven? (month and year)
-    c. Please set the Outside Capital Investment cell for Aug Year 1 on the cashflow statement to $80,000. What is the ending cash balance in December of YR2?
+  - a. Based on your analysis how much money (in addition to the $10,ooo they are putting in) will they need to ask for? Why this amount?
+  - b. When does SensiStart breakeven? (month and year)
+  - c. Please set the Outside Capital Investment cell for Aug Year 1 on the cashflow statement to $80,000. What is the ending cash balance in December of YR2?
